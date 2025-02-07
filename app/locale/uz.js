@@ -1,5 +1,5 @@
 module.exports = {
-  nativeDescription: "O'zbekcha",
+  nativeDescription: "Oʻzbekcha",
   englishDescription: 'Uzbek',
   translation: {
 
